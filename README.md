@@ -3,7 +3,7 @@ A simple Java program that performs basic arithmetic operations: addition, subtr
 
 How to use:  
 Open the source code.  
-Make sure the filename matches the name of the public class (e.g., if the class is ChickenAdobo, save it as ChickenAdobo.java). 
+Make sure the filename matches the name of the public class (e.g., if the class is ChickenAdobo, save it as ChickenAdobo.java).  
 Compile and run using a Java compiler or just run  
 
 How to check if it works:  
